@@ -32,7 +32,7 @@ Node.js is a powerful and versatile platform for building server-side applicatio
 To get started with this repository, clone it to your local machine and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/advanced-nodejs-concepts.git
+git clone https://github.com/Nirajan1-droid/NodeJS_Advanced_Understandings_Lessons
 cd advanced-nodejs-concepts
 npm install
 ```
