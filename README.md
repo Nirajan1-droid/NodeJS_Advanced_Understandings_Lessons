@@ -99,5 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [JavaScript and Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 Thank you for visiting this repository. I hope you find it useful and engaging. Happy coding!
-<ul></ul>
+
+
 Feel free to customize the content to better fit your specific focus and add more modules as you see fit. This structure aims to make the repository interesting and valuable to the community, encouraging them to contribute and learn.
